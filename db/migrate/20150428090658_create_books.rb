@@ -4,7 +4,7 @@ class CreateBooks < ActiveRecord::Migration
       t.string :title
       t.integer :release_year
       t.float :price
-      t.tex :description
+      t.text :description
       t.string :book_id
       t.string :poster_url
 

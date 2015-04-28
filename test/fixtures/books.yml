@@ -4,7 +4,7 @@ one:
   title: MyString
   release_year: 1
   price: 1.5
-  description: 
+  description: MyText
   book_id: MyString
   poster_url: MyString
 
@@ -12,6 +12,6 @@ two:
   title: MyString
   release_year: 1
   price: 1.5
-  description: 
+  description: MyText
   book_id: MyString
   poster_url: MyString
